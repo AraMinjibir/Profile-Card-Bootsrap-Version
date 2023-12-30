@@ -1,0 +1,55 @@
+body {
+    font-size: 18px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400;
+}
+.bg-danger {
+    width: 100%;
+    height: 30vh;
+    background-image: url(./images/bg-pattern-card.svg) !important;
+}
+.first {
+    width: 40%;
+    height: 50vh;
+    margin-top: -5vh;
+    margin-left: -0vh;
+    background-image: url(./images/bg-pattern-top.svg) !important;
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row {
+    margin-top: -28vh;
+}
+.second {
+    width: 43%;
+    height: 30vh;
+    background-image: url(./images/bg-pattern-bottom.svg) !important;
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    margin-left: 50vw;
+    margin-top: -23vh;
+}
+.text-primary {
+    color: hsl(229, 23%, 23%) !important;
+    font-weight: 700;
+}
+.text-secondary {
+    margin-top: -1vh;
+    color: hsl(227, 10%, 46%) !important;
+}
+.text-dark {
+    color: hsl(227, 10%, 46%) !important;
+}
+
+.victor {
+    width: 10vw;
+    height: 22vh;
+    border-radius: 100%;
+    margin-top: -9.5vh;
+}
+.bg-primary {
+    background-color: hsl(185, 75%, 39%) !important;
+}
