@@ -2,7 +2,7 @@
 
 # Project Description
 
-In my quest to enhance my skills in responsive design, I decided to transform all my previous exercises into responsive designs, and this project is one of them.
+In my quest to enhance my skills in responsive design. I decided to transform all my previous exercises into responsive designs, and this project is one of them.
 
 The project includes a container named 'container,' which houses a two containers and a grid container (row). Within this row, there is a single column. The column contains a card with background-image, image and text. While the remaining two containers consists background-colors.
 
